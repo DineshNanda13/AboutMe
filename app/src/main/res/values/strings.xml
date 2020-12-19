@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Dinesh Nanda</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Dinesh.
+\n\nI work for Bell as a QA Tester.
+\n\nI want to be a Software Developer.
+\n\nI love playing cricket and Playstation games.
+\n\nI speak 4 languages: English, French, Hindi, Punjabi.
+\n\nI have visited Austalia and US.
+\n\nI am from India and live in Montreal.
+\n\nI love India and Canada. These are my two homes.
+\n\nIndia, because it is my home Country and I love being there and Canada, because here, i met so many people and learnt their beautiful culture.
+\n\nI hope I explore every part of these two Countries before I die.
+    \n\nMerry christmas and a happy new year 2021.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
